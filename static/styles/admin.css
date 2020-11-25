@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.pasek_gorny {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 75px;
+    background-color: rgb(52, 52, 197);
+}
+
+.pasek_dolny {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(211, 211, 14);
+}
+.strona {
+    background-color:  rgb(245, 240, 240);
+}
+
+a {
+    color: white;
+    font-size: 40px;
+    margin: 10px;
+}
+
+.a {
+    color: black;
+    font-size: 40px;
+    margin: 10px;
+}
+.napis {
+    display: flex;
+    width: 100%;
+    height: 82.7vh;
+    background-color: rgb(245, 240, 240);
+    justify-content: center;
+}
+
+span {
+    color: rgb(194, 189, 189);
+    font-size: 100px;
+}
+ 

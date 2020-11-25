@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.pasek_gorny {
+    display: flex;
+    width: 100%;
+    height: 75px;
+    background-color: rgb(238, 41, 74);
+}
+
+.strona {
+    background-color:  rgb(245, 240, 240);
+}
+
+a {
+    color: white;
+    font-size: 40px;
+    margin: 10px;
+}
+
+.napis {
+    display: flex;
+    width: 100%;
+    height: 89.6vh;
+    background-color: rgb(245, 240, 240);
+    justify-content: center;
+}
+
+span {
+    color: rgb(194, 189, 189);
+    font-size: 100px;
+}
+ 
